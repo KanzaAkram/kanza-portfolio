@@ -1,3 +1,3 @@
-# JayPortfolio
-Personal Portfolio of Jay Dee. 
+# Kanza Portfolio
+Personal Portfolio of Kanza Muhammad Akram. 
 It is a Responsive Portfolio Website
